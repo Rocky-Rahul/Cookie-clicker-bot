@@ -25,7 +25,7 @@ This project is a Selenium-based bot designed to automate gameplay for the popul
 3. Ensure ChromeDriver is in your project directory or in your system's PATH:
     Download from ChromeDriver.
 
-Usage
+## Usage
 1. Run the script:
     python cookieclickers.py
 
@@ -33,12 +33,12 @@ Usage
     ⁕ Click cookies automatically.
     ⁕ Buy upgrades when sufficient cookies are available.
 
-Known Issues
+## Known Issues
     ⁕ If elements on the page change, the script may need updates.
     ⁕ Slow internet or low processing speed may cause timeouts.
 
-Contribution
+## Contribution
     Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-License
+## License
     This project is licensed under the MIT License. See the LICENSE file for details.
