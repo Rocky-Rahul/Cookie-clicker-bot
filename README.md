@@ -23,7 +23,7 @@ This project is a Selenium-based bot designed to automate gameplay for the popul
     pip install selenium
 
 3. Ensure ChromeDriver is in your project directory or in your system's PATH:
-    Download from ChromeDriver.
+    - Download from [ChromeDriver](https://sites.google.com/chromium.org/driver/).
 
 ## Usage
 1. Run the script:
