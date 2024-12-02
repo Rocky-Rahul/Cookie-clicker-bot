@@ -30,12 +30,12 @@ This project is a Selenium-based bot designed to automate gameplay for the popul
     python cookieclickers.py
 
 2. The bot will:
-    ⁕ Click cookies automatically.
-    ⁕ Buy upgrades when sufficient cookies are available.
+    - Click cookies automatically.
+    - Buy upgrades when sufficient cookies are available.
 
 ## Known Issues
-    ⁕ If elements on the page change, the script may need updates.
-    ⁕ Slow internet or low processing speed may cause timeouts.
+- If elements on the page change, the script may need updates.
+- Slow internet or low processing speed may cause timeouts.
 
 ## Contribution
     Contributions are welcome! Feel free to fork the repository and submit pull requests.
