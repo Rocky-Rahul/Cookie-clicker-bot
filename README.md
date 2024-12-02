@@ -16,11 +16,11 @@ This project is a Selenium-based bot designed to automate gameplay for the popul
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/username/cookie-clicker-bot.git
-   cd cookie-clicker-bot
+   - git clone https://github.com/username/cookie-clicker-bot.git
+   - cd cookie-clicker-bot
 
 2. Install required libraries:
-    pip install selenium
+    - pip install selenium
 
 3. Ensure ChromeDriver is in your project directory or in your system's PATH:
     - Download from [ChromeDriver](https://sites.google.com/chromium.org/driver/).
@@ -38,7 +38,7 @@ This project is a Selenium-based bot designed to automate gameplay for the popul
 - Slow internet or low processing speed may cause timeouts.
 
 ## Contribution
-    Contributions are welcome! Feel free to fork the repository and submit pull requests.
+- Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 ## License
-    This project is licensed under the MIT License. See the LICENSE file for details.
+- This project is licensed under the MIT License. See the LICENSE file for details.
